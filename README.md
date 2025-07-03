@@ -142,3 +142,5 @@ If you're building something with purpose — let’s connect!
 ---
 
 📄 Licensed under the [MIT License](./LICENSE)
+
+> ⚠️ Note: All code is MIT licensed. Personal content (e.g. text, images, graphics) is © Osasele Osagie and not for commercial use or redistribution without permission.
