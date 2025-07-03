@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Osasele Osagie Banner" width="100%" />
+</p>
+
 # 👋🏾 Osasele Osagie
 
 📍 **Lagos, Nigeria**  
@@ -5,95 +9,116 @@
 ✉️ osasosagierich@gmail.com  
 🔗 [GitHub](https://github.com/datasosa) | [LinkedIn](https://linkedin.com/in/Osas-Osagie)
 
+![Profile Views](https://komarev.com/ghpvc/?username=datasosa&label=Profile+Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/datasosa?label=Follow&style=social)
+![Repo Stars](https://img.shields.io/github/stars/datasosa?style=social)
+
 ---
 
 ## 🧠 Summary
 
-Results-driven professional with a hybrid edge—**logistics, operations, and warehouse leadership experience**, now merged with **data analysis** and **full-stack web development**. I specialize in transforming messy data into clean, usable insight and building digital tools that solve real-world problems. Think of me as the bridge between dusty backroom spreadsheets and sleek frontend dashboards.
+Results-driven professional with a hybrid edge—**logistics, operations, and warehouse leadership experience**, now shifting to **data analysis** and **full-stack web development**. I specialize in transforming messy data into clean, usable insight and building digital tools that solve real-world problems. Think of me as the bridge between dusty backroom spreadsheets and sleek frontend dashboards.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Data & Analytics:**  
-- Power BI  
-- Python (Pandas, NumPy)  
-- MySQL  
-- Microsoft Excel (Advanced): Pivot Tables, VLOOKUP, Conditional Formatting  
-- Data Cleaning, Visualization, and Reporting  
+**📊 Data & Analytics:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
-**Web Development:**  
-- JavaScript (Node.js)  
-- HTML5, CSS3, Express.js  
-- RESTful APIs, JSON  
-- Responsive Design  
-- Deployment: Render, Web Hosting  
+**🌐 Web Development:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
 
-**Tools:**  
-- Git & GitHub (Version Control)  
-- LocalStorage, File-based DBs  
+**🛠️ Tools & Deployment:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 
 ---
 
 ## 💻 Selected Projects
 
+### 📊 [Data Analysis Portfolio](https://github.com/datasosa/Data-Analysis-Portfolio)
+> Real-world projects showcasing skills in Power BI, Python, MySQL, and Excel.  
+Includes dashboards, customer segmentation, sales optimization, and inventory audits.  
+Built to deliver business insight from raw data chaos.
+
+---
+
 ### 🎮 [Arcade Ascend](https://github.com/datasosa/MiniGameApp-Prototype)
-**Tech:** Node.js, Express.js, HTML5, CSS3, Vanilla JS  
-- Full-stack web game app with authentication (login/guest/registration)  
-- Dynamic UI elements, basic game tracking  
-- Deployed on Render.com  
-- Showcases end-to-end dev from backend logic to frontend interaction
+> **Tech:** Node.js, Express.js, HTML5, CSS3, Vanilla JS  
+- Full-stack web game app with login/guest/registration auth  
+- Dynamic UI control and basic gameplay tracking  
+- Deployed on Render  
+- Built end-to-end: backend logic ➜ frontend UI ➜ live deployment
 
 ---
 
-### ✅ [Nexustask-Todo-App](https://github.com/datasosa/NexusTask-Todo-App)
-**Tech:** HTML5, CSS3, JavaScript  
-- CRUD Todo app with local browser storage  
-- Intelligent task filtering, dynamic animations, dark/light mode toggle  
-- Strong focus on UX and data manipulation in the browser
+### ✅ [NexusTask - Todo App](https://github.com/datasosa/NexusTask-Todo-App)
+> **Tech:** HTML5, CSS3, JavaScript  
+- CRUD Todo app with browser storage  
+- Intelligent filtering, dark/light mode, smooth UI animations  
+- Focus on clean UX, responsive design, and frontend logic
 
 ---
 
-## 💼 Professional Experience
+## 🧩 Contribution Ideas
 
-### NET-A-PORTER — *Distribution Assistant*  
-📅 March 2018 – June 2023  
-- Led quality control checks, tracked defect trends, and optimized order dispatch strategies  
-- Used advanced Excel (formulas, pivot tables, VLOOKUP) for KPI reporting  
-- Maintained warehouse data integrity and coordinated audits
+Want to collaborate or contribute? Here are some fun ways we can team up:
 
-### TUFFNELLS PARCEL EXPRESS — *Warehouse Supervisor*  
-📅 2016 – February 2018  
-- Supervised 15+ warehouse staff and operations  
-- Designed data tracking systems for team performance and shipping metrics  
-- Generated operational reports and implemented live tracking systems
+- 🧪 **Add feature ideas** to existing game or ToDo apps (e.g., leaderboards, theme systems, analytics logs)  
+- 📈 **Extend the data portfolio**: build Python scripts to fetch live datasets (e.g., COVID stats, logistics KPIs, stock prices) and visualize them  
+- 🔧 **Refactor & document code**: improve existing repo docs, add setup scripts or Docker containers  
+- 🌐 **Create mini REST APIs** for internal data tools (e.g., inventory tracker, Excel automation starter)  
+- 🤝 **Code review and pair-programming**—let’s polish current work or brainstorm new modules
 
-### WINCANTON FOR SAINSBURY’S — *Warehouse Assistant*  
-📅 2014 – 2016  
-- Maintained stock control systems, barcode tracking  
-- Supported inventory audits, resolved shipping discrepancies
+**Feel free to open an issue or pull request**—I’m all ears!
 
-### LIDL — *Warehouse Operative*  
-📅 2013 – 2014  
-- Picked, packed, and logged shipments  
-- Conducted safety audits and reported incidents
+---
 
-### ADVANTAGE EDUCATION LTD — *Office Assistant*  
-📅 2011 – 2013  
-- Accurate data entry for academic and financial records  
-- Created schedules and supported admin through spreadsheet reporting
+## 💼 Work Experience
+
+### 🧾 NET-A-PORTER — *Distribution Assistant*  
+🗓️ Mar 2018 – Jun 2023  
+- Ran quality checks, tracked defect trends, supported KPI reporting  
+- Built Excel tools to track fulfillment, delivery accuracy, and inventory audits
+
+### 📦 TUFFNELLS PARCEL EXPRESS — *Warehouse Supervisor*  
+🗓️ 2016 – Feb 2018  
+- Managed 15+ staff, built Excel trackers for logistics and staff performance  
+- Designed workflows and maintained high throughput using live dashboards
+
+### 🛒 WINCANTON (for Sainsbury’s) — *Warehouse Assistant*  
+🗓️ 2014 – 2016  
+- Maintained barcode inventory systems, logged discrepancies  
+- Conducted audits with system-level reconciliation
+
+### 📦 LIDL — *Warehouse Operative*  
+🗓️ 2013 – 2014  
+- Executed order packing, shipment tracking, and safety reports
+
+### 🗃️ ADVANTAGE EDUCATION LTD — *Office Assistant*  
+🗓️ 2011 – 2013  
+- Data entry for academic & financial records, built basic reporting tools
 
 ---
 
 ## 🎓 Education
 
 - **Data Analysis** — ICJCA Computer College, 2025  
-- **BTEC National Diploma in Business** — Newham College London, 2009  
-- **BTEC First Diploma in Business** — Greenwich Community College, 2007
+- **BTEC National Diploma (Business)** — Newham College London, 2009  
+- **BTEC First Diploma (Business)** — Greenwich Community College, 2007
 
 ---
 
-## 📜 Certifications
+## 🏅 Certifications
 
 - 🎓 *Diploma in Data Analysis* – Distinction Level
 
@@ -102,8 +127,14 @@ Results-driven professional with a hybrid edge—**logistics, operations, and wa
 ## 🚀 What I'm Looking For
 
 Currently open to:
-- **Remote roles** in Data Analysis, Frontend Projects or Full-Stack Development  
-- **Freelance projects** that mix operations with digital tools  
-- **Collaborations**
+- **Remote roles** in Data Analysis, Frontend Projects, or Full-Stack Development  
+- **Freelance projects** that blend operations + tech  
+- **Collaborations** — Open to teaming up with developers, analysts, or designers on passion projects, data storytelling, or open-source tools  
+If you're building something with purpose — let’s connect!
 
-Let’s build something powerful.
+---
+
+## 📈 GitHub Stats
+
+![Sosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=datasosa&show_icons=true&theme=radical&hide=stars,prs)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datasosa&layout=compact&theme=radical)
