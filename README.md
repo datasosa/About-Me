@@ -138,3 +138,7 @@ If you're building something with purpose — let’s connect!
 
 ![Sosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=datasosa&show_icons=true&theme=radical&hide=stars,prs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datasosa&layout=compact&theme=radical)
+
+---
+
+📄 Licensed under the [MIT License](./LICENSE)
