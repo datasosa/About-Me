@@ -54,7 +54,7 @@ Built to deliver business insight from raw data chaos.
 
 ### 🎮 [Arcade Ascend](https://github.com/datasosa/MiniGameApp-Prototype)
 > **Tech:** Node.js, Express.js, HTML5, CSS3, Vanilla JS  
-- Full-stack web game app with login/guest/registration auth  
+- Front-End web game app with login/guest/registration auth  
 - Dynamic UI control and basic gameplay tracking  
 - Deployed on Render  
 - Built end-to-end: backend logic ➜ frontend UI ➜ live deployment
