@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Osasele Osagie Banner" width="100%" />
+  <img src="Banner2.png" alt="Osasele Osagie Banner" width="100%" />
 </p>
 
 # 👋🏾 Osasele Osagie
